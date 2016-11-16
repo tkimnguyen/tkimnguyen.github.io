@@ -1,0 +1,11 @@
+body {
+    font-family: 'DejaVu Sans', 'Bitstream Vera Sans', Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 140%;
+
+}
+.past {
+    color: #888888;
+}
+.future {
+    color: #dddddd;
+}
