@@ -1,5 +1,5 @@
 ### Welcome
 
-##### Miscellany
+A presentation from https://2016.ploneconf.org:
 
-  * [PC2016-LDAP-Jens-Klein/index.html](Jens Klein: LDAP for Plone with pas.plugins.ldap)
+  * [Jens Klein: LDAP for Plone with pas.plugins.ldap](PC2016-LDAP-Jens-Klein/index.html)
